@@ -1,0 +1,14 @@
+{
+    "streamer": "zioidk",
+    "guildID": "902930223086051358",
+    "roleID": "916023857725460531",
+    "activitiesList": [
+      "you won't see this message",
+      "with babies chat",
+      "on the Zioidk SMP",
+      "with butter dog"
+    ],
+    "appClientID": "INSERT-TWITCH-PUBLUC-TOKEN-HERE",
+    "appSecretToken": "INSERT-TWITCH-PRIVATE-TOKEN-HERE",
+    "token": "INSERT-DISCORD-TOKEN-HERE"
+  }
